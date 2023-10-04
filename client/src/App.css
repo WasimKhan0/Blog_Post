@@ -1,0 +1,36 @@
+.name{
+    color: rgb(21, 20, 20);
+    font-size: 18px;
+    /* transform: translateX(-100px); */
+}
+.robot{
+    width: 300px;
+    height: 300px;
+}
+.menu{
+    margin-left: 100px;
+}
+.logo{
+   width: 270px;
+   height: 60px;
+}
+.bigRobot{
+    width: 450px;
+    height: 450px;
+}
+.roboBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#serachBox{
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+            width: 500px;
+        height: 40px;
+    padding: 5px;
+    border-radius: 9px;
+    padding-left: 2px;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 8px;
+}
